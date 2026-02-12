@@ -1,7 +1,4 @@
-node_modules
+node_modules/
 .env
-dist
-build
-chroma
-.DS_Store
-npm-debug.log
+dist/
+chroma/
